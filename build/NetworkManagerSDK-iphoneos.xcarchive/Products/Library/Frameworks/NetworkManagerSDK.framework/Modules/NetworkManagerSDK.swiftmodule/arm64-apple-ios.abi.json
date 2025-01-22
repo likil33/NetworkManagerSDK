@@ -1,0 +1,64 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "NetworkManagerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NetworkManager",
+        "printedName": "NetworkManager",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getRequestCall",
+            "printedName": "getRequestCall(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:17NetworkManagerSDK0aB0C14getRequestCallyySSFZ",
+            "mangledName": "$s17NetworkManagerSDK0aB0C14getRequestCallyySSFZ",
+            "moduleName": "NetworkManagerSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:17NetworkManagerSDK0aB0C",
+        "mangledName": "$s17NetworkManagerSDK0aB0C",
+        "moduleName": "NetworkManagerSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

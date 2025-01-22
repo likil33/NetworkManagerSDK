@@ -1,0 +1,13 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/santhoshk/Library/Developer/Xcode/DerivedData/NetworkManagerSDK-ebirdkbmbqwfcfcueaypprmdvlxz/Build/Intermediates.noindex/ArchiveIntermediates/NetworkManagerSDK/InstallationBuildProductsLocation/Library/Frameworks/NetworkManagerSDK.framework/NetworkManagerSDK'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x303DF, size: 0x8, addend: 0x0, symName: _NetworkManagerSDKVersionString, symObjAddr: 0x0, symBinAddr: 0xE50, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x30414, size: 0x8, addend: 0x0, symName: _NetworkManagerSDKVersionNumber, symObjAddr: 0x40, symBinAddr: 0xE90, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x30451, size: 0x8, addend: 0x0, symName: '_$s17NetworkManagerSDK0aB0C14getRequestCallyySSFZ', symObjAddr: 0x0, symBinAddr: 0xC80, symSize: 0xF0 }
+  - { offsetInCU: 0x119, offset: 0x30543, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xF0, symBinAddr: 0xD70, symSize: 0x40 }
+  - { offsetInCU: 0x12D, offset: 0x30557, size: 0x8, addend: 0x0, symName: '_$s17NetworkManagerSDK0aB0CMa', symObjAddr: 0x160, symBinAddr: 0xDE0, symSize: 0x20 }
+  - { offsetInCU: 0x26B, offset: 0x30695, size: 0x8, addend: 0x0, symName: '_$s17NetworkManagerSDK0aB0C14getRequestCallyySSFZ', symObjAddr: 0x0, symBinAddr: 0xC80, symSize: 0xF0 }
+  - { offsetInCU: 0x389, offset: 0x307B3, size: 0x8, addend: 0x0, symName: '_$s17NetworkManagerSDK0aB0Cfd', symObjAddr: 0x130, symBinAddr: 0xDB0, symSize: 0x10 }
+  - { offsetInCU: 0x3AC, offset: 0x307D6, size: 0x8, addend: 0x0, symName: '_$s17NetworkManagerSDK0aB0CfD', symObjAddr: 0x140, symBinAddr: 0xDC0, symSize: 0x20 }
+...
